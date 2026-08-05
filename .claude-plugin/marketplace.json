@@ -1,0 +1,15 @@
+{
+  "name": "weekly-achievements-tools",
+  "description": "Small, evidence-based workflow plugins for weekly work documentation.",
+  "owner": {
+    "name": "Weekly Achievements contributors"
+  },
+  "plugins": [
+    {
+      "name": "weekly-achievements",
+      "source": ".",
+      "description": "Builds an evidence-based weekly achievements report from Git and optional Jira activity.",
+      "version": "0.1.0"
+    }
+  ]
+}
