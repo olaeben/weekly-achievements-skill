@@ -3,6 +3,7 @@
   "description": "Builds an evidence-based weekly achievements report from Git and optional Jira activity.",
   "version": "0.1.0",
   "author": {
-    "name": "Weekly Achievements contributors"
-  }
+    "name": "olaeben"
+  },
+  "repository": "https://github.com/olaeben/weekly-achievements-skill"
 }

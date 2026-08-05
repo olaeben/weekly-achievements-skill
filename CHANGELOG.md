@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 — Preview
+## 0.1.0 — Initial public release
 
 - Added portable macOS/BSD and GNU date handling.
 - Added configurable state and output directories.

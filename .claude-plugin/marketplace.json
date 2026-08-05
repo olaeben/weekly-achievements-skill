@@ -2,7 +2,7 @@
   "name": "weekly-achievements-tools",
   "description": "Small, evidence-based workflow plugins for weekly work documentation.",
   "owner": {
-    "name": "Weekly Achievements contributors"
+    "name": "olaeben"
   },
   "plugins": [
     {
